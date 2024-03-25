@@ -1,4 +1,4 @@
-# Lecture 14, October 9, 2023
+# Lecture 14
 
 ## In-class Errata / Additional Discussion
 
