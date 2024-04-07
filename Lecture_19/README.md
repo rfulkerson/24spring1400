@@ -105,13 +105,6 @@ We wrapped up talking about namespaces, namely local, global, and built-in, with
 Overall, great discussions in class today!
 
 
-## Music played at the beginning of class
-
-* [I and Love and You](https://www.youtube.com/watch?v=T0eSpAgqrWo) by The Avett Brothers
-* [Silver Lining](https://www.youtube.com/watch?v=jVtSSCzASR0) by Rilo Kiley
-* [Someone in the Crowd](https://www.youtube.com/watch?v=cmkZeTX5fq0) by Emma Stone, Callie Hernandez, Sonoya Mizuno & Jessica Rothe
-* [Nowhere to Run](https://www.youtube.com/watch?v=WR9pvGtyiHg) by Martha Reeves & The Vandellas
-
 ## The topics for this lecture were:
 
 * Functions with branches
