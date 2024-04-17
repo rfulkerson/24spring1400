@@ -1,4 +1,4 @@
-# Lecture 23, April 18th, 2023
+# Lecture 23
 
 ## In-class Errata / Additional Discussion
 
@@ -28,12 +28,6 @@ The one major difference between thinking about this type of data being stored i
 
 The other major topic for this lecture centered around list slicing and all of the various ways you can process lists by accessing sublists.
 
-
-## Music played at the beginning of class
-
-* [Love, Reign O'er Me](https://www.youtube.com/watch?v=PMxwPOoZm_c) by The Who
-* [Level Up](https://www.youtube.com/watch?v=U4n_8R5lKnw) by Vienna Teng
-* [Blue in Green](https://www.youtube.com/watch?v=TLDflhhdPCg) by Miles Davis
 
 ## The topics for this lecture were:
 
